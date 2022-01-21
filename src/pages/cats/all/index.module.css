@@ -1,0 +1,15 @@
+.cat {
+    margin: 10px;
+}
+.title {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    overflow-y: auto;
+    flex: auto;
+    padding-left: 50px;
+}

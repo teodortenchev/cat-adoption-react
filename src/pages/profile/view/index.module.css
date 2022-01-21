@@ -1,0 +1,29 @@
+.container {
+    margin-top: 20px;
+    background-color: wheat;
+    min-width: 50%;
+    border-radius: 50px;
+    display:flex;
+    align-items: center;
+}
+
+.picture {
+    border-radius: 100px;
+    margin: 10px;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+
+.profileInfo {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.fieldName {
+    font-weight: 700;
+}
+
+.buttonContainer {
+    margin: 5px;
+}

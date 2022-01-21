@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+}
+.wrap {
+     overflow:auto;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-top: 15px;
+}
+
+.content {
+    margin-left: 10px;
+    width: 70%;
+    font-size: 18px;
+}
+
+.button {
+    margin-top: 20px;
+    text-align: center;
+}

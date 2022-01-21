@@ -1,0 +1,19 @@
+.container {
+    background-color: wheat;
+    border: 5px white;
+    opacity: 85%;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+    flex-flow: column;
+    padding: 5px 10px 10px 10px;
+    min-width: 400px;
+    width: 40%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}

@@ -1,0 +1,50 @@
+.catContainer {
+    border: 2px dashed;
+    border-radius: 40px;
+    width: 60%;
+    margin-left: 10px;
+    padding: 10px 10px 10px 20px;
+    display: flex;
+    min-width: 300px;
+    margin-bottom: 25px;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+    padding: 2px 2px 2px 2px;
+}
+
+.info {
+    margin: 5px 5px 5px 15px;
+    line-height: 26pt;
+}
+
+.name {
+    font-size: xx-large;
+    color: rgb(46, 189, 10);
+}
+
+.controls {
+    display: flex;
+    flex-flow: column;
+}
+.approve {
+    color: green;
+    text-decoration: none;
+}
+.approve:hover {
+    text-decoration: none;
+    font-size: large;
+}
+.reject {
+    color: red;
+    text-decoration: none;
+}
+
+.reject:hover {
+    color: red;
+    text-decoration: none;
+    font-size: large;
+}

@@ -1,0 +1,42 @@
+.catContainer {
+    border: 2px dashed;
+    border-radius: 40px;
+    width: 60%;
+    margin-left: 10px;
+    padding: 10px 10px 10px 20px;
+    display: flex;
+    min-width: 300px;
+    margin-bottom: 25px;
+}
+
+.Approved {
+    border-color: rgb(117, 238, 47);
+}
+
+.Rejected {
+    border-color: red;
+}
+
+.Pending {
+    border-color: rgb(7, 129, 211);
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+    padding: 2px 2px 2px 2px;
+}
+
+.info {
+    margin: 5px 5px 5px 15px;
+    line-height: 26pt;
+}
+
+.statusImage {
+    width: 150px;
+    margin-left: auto;
+}
+.statusImage:hover {
+    opacity: 90%;
+}

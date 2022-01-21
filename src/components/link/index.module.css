@@ -1,0 +1,51 @@
+.form-simple {
+    font-size: small;
+    text-decoration: none;
+    color: black;
+}
+
+.main-page {
+    text-decoration: none;
+    color: rgba(9, 114, 175, 0.589);
+    font-weight: 700;
+}
+.main-page:visited {
+    color: rgba(9, 114, 175, 0.589);
+}
+.main-page:hover {
+    color: rgba(187, 3, 79, 0.589);
+}
+
+.main-page-test {
+    text-decoration: none;
+    color: red;
+    font-weight: 700;
+}
+.main-page-test:visited {
+    color: rgba(187, 3, 79, 0.589);
+}
+
+.form-simple:visited {
+    color: rgba(7, 121, 187, 0.589);
+}
+.form-simple:hover {
+    text-decoration: underline;
+}
+
+.header {
+    color: white;
+    text-decoration: none;
+}
+
+.header-option {
+    display: flex;
+    font-size: 12px;
+    font-weight: 700;
+    align-items: center;
+    margin: 5px 15px;
+}
+
+.header:hover {
+    color: goldenrod;
+    transition: all 1s linear;
+}

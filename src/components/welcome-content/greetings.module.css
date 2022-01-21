@@ -1,0 +1,11 @@
+.text {
+    padding: 0px 30px 10px 30px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.links {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}

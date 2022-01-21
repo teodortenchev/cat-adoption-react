@@ -1,0 +1,16 @@
+.wrapper {
+    background-image: url("../../../images/the-lucky-neko-wxobdzVMzpQ-unsplash.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}

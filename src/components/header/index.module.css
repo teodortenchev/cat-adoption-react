@@ -1,0 +1,33 @@
+.container {
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 100px;
+    margin: 5px 5px;
+    object-fit: contain;
+}
+
+.search {
+    display: flex;
+    flex: 1;
+}
+
+.search-input {
+    width: 10%;
+    transition: width 0.4s ease-in-out;
+}
+
+.search-input[type="text"]:focus {
+    width: 100%;
+}
+
+.search-icon {
+    background-color: rgb(228, 21, 72);
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-evenly;
+}
