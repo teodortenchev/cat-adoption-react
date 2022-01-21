@@ -1,5 +1,9 @@
 # Adopt-A-Cat Foundation
 
+Author: Teodor Tenchev
+
+This is a project developed for the Software as a Service course in New Bulgarian University.
+
 This is a web app for a homeless cat shelter. It has admin and normal user
 functionality.
 
